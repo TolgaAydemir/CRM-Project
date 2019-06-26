@@ -1,0 +1,24 @@
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.Browser.resources
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.Calculator.resources
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.Form1.resources
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.Form2.resources
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\bin\Debug\Students.exe.config
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\bin\Debug\Students.exe
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\bin\Debug\Students.pdb
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\bin\Debug\FakeData.dll
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\bin\Debug\FakeData.pdb
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.csproj.CopyComplete
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.exe
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.pdb
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.MineField.resources
+C:\Users\Hüseyin Avni Yalçın\Documents\dotnet19\Students\Students\obj\Debug\Students.FieldGate.resources
+C:\Users\Umut Berke\Desktop\Students\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Umut Berke\Desktop\Students\Students\obj\Debug\Students.exe
+C:\Users\Umut Berke\Desktop\Students\Students\obj\Debug\Students.pdb
+C:\Users\Umut Berke\Desktop\CRM-MineSweeper\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Umut Berke\Desktop\CRM-MineSweeper\Students\obj\Debug\Students.exe
+C:\Users\Umut Berke\Desktop\CRM-MineSweeper\Students\obj\Debug\Students.pdb
